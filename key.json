@@ -1,5 +1,6 @@
 {
     "class":{
-        "feature":1
+        "feature":1,
+        "hotfix":"v1.0.1"
     }
 }
