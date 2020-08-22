@@ -1,6 +1,7 @@
 {
     "class":{
         "feature":1,
-        "hotfix":"v1.0.1"
+        "hotfix":"v1.0.1",
+        "feature2":"Setting capabilities v1.1.0"
     }
 }
